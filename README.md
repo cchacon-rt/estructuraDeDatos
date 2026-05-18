@@ -4,5 +4,11 @@ Semana 1
 2. ejercicioApuntadores
 
 Semana 2
-3. Estructuras
-3.1 Tarea Estructuras
+Estructuras
+
+2. Tarea Estructuras
+
+Semana 3
+recorrerArreglo
+3.1 estructApuntador
+3.2 arrayCaracteres
