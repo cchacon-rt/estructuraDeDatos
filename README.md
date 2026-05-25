@@ -12,3 +12,6 @@ Semana 3
 recorrerArreglo
 3.1 estructApuntador
 3.2 arrayCaracteres
+3.3 Nodos
+
+
